@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Joseph Ruiz
+- I'm interested in making whatever software or algorithms which allow me 
+- to create more accurate data analysis and reduce manual tasks done by
+- financial, data, and other analysts. I have and will learn whatever
+- it takes for me to achieve that goal
